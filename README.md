@@ -43,15 +43,20 @@ A responsive web application allowing customers to browse menus and place orders
 - **Tech Stack:** React.js, Node.js, MongoDB, Tailwind CSS
 - [View Project](#) | [Source Code](#)
 
-### 2. **Trading Dashboard**
+### 2. **Online Fruit Shop**
+An e-commerce platform for browsing and purchasing fresh fruits online with a smooth checkout process.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+- [View Project](#) | [Source Code](#)
+
+### 3. **System Monitor Dashboard**
 An analytical dashboard featuring real-time system monitoring, health charts, and threat notifications.
 - **Tech Stack:** MERN Stack, Ant Design
 - [View Project](#) | [Source Code](#)
 
-### 3. **Candlestick Chart Visualization**
-A fully responsive candlestick chart for financial data visualization with interactive features.
-- **Tech Stack:** React.js, D3.js
-- [View Project](#) | [Source Code](#)
+---
+
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohd-zafar&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
