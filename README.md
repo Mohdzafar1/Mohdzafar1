@@ -68,6 +68,6 @@ An analytical dashboard featuring real-time system monitoring, health charts, an
 ## 📫 Contact Me
 - **Email:** [mohdzafar97597@gmail.com](mailto:your-email@example.com)
 - **LinkedIn:** [https://www.linkedin.com/in/mohdza-far/](https://linkedin.com/in/mohd-zafar)
-- **Portfolio:** [https://portfolio-my-bice.vercel.app/](https://mohd-zafar.dev)
+- **Portfolio:** [https://mohdzafar.vercel.app/](https://mohd-zafar.dev)
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
