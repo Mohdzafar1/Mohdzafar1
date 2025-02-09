@@ -1,73 +1,86 @@
-# Hi, I'm Mohd Zafar! 👋
-
-Welcome to my GitHub portfolio! Here, you'll find a showcase of my projects and contributions as a **Frontend Developer** specializing in modern web technologies.
-
-## 💻 About Me
-I'm a passionate developer with expertise in creating dynamic, responsive, and user-friendly web applications. My journey in development revolves around building seamless and efficient solutions using the latest web technologies.
+```md
+<h1 align="center">Hi, I'm Mohd Zafar! 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</p>
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
+I'm a **Frontend Developer** passionate about building dynamic, responsive, and user-friendly web applications. I specialize in modern **JavaScript frameworks** like **React.js** and **Next.js**, ensuring seamless and efficient solutions.
+
+- 🔭 Currently working on **Trading CMS & Analytical Dashboards**.
+- 🌱 Learning **Backend Development & Cloud Computing**.
+- 💬 Ask me about **React.js, Tailwind CSS, and State Management**.
+- ⚡ Fun fact: I love **problem-solving** and **chess♟️**!
+
+---
+
+## 🛠 Tech Stack & Tools
 
 ### **Frontend Development**
-- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Next.js, Bootstrap, Tailwind CSS
-- **State Management:** Redux, Context API
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend Development**
-- **Technologies:** Node.js, Express.js
-- **Database:** MongoDB
-
-### **Full Stack Development**
-- **MERN Stack:** MongoDB, Express.js, React.js, Node.js
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools & Platforms**
-- Git & GitHub
-- Visual Studio Code
-- Postman
-
----
-
-## 🌟 Highlights
-- **Frontend Expertise:** Proficient in building clean and modern UIs with a focus on responsiveness.
-- **MERN Stack:** Experienced in creating full-stack web applications with scalable backends.
-- **Versatile Developer:** Comfortable working with JavaScript, TypeScript, and CSS frameworks to deliver polished user experiences.
-- **UI Frameworks:** Strong grip on Tailwind CSS and Bootstrap to accelerate development.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📂 Featured Projects
 
-### 1. **Virtual Waiter Menu System**
-A responsive web application allowing customers to browse menus and place orders, while admins can manage and confirm them.
+### 1️⃣ **Virtual Waiter Menu System** 🍽️
+A responsive web app for ordering food from a virtual menu, managed by admins.
 - **Tech Stack:** React.js, Node.js, MongoDB, Tailwind CSS
-- [View Project](#) | [Source Code](#)
+- 🔗 [View Project](#) | 📌 [Source Code](#)
 
-### 2. **Online Fruit Shop**
-An e-commerce platform for browsing and purchasing fresh fruits online with a smooth checkout process.
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- [View Project](#) | [Source Code](#)
+### 2️⃣ **Online Fruit Shop** 🍎🍌🍊
+An e-commerce platform for fresh fruit shopping with a smooth checkout experience.
+- **Tech Stack:** React.js, Express.js, MongoDB
+- 🔗 [View Project](#) | 📌 [Source Code](#)
 
-### 3. **System Monitor Dashboard**
-An analytical dashboard featuring real-time system monitoring, health charts, and threat notifications.
+### 3️⃣ **System Monitor Dashboard** 📊
+A real-time analytics dashboard with system health charts and threat alerts.
 - **Tech Stack:** MERN Stack, Ant Design
-- [View Project](#) | [Source Code](#)
+- 🔗 [View Project](#) | 📌 [Source Code](#)
 
 ---
 
 ## 🏆 GitHub Achievements
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohd-zafar&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Mohd Zafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-zafar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-zafar&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
-- **Email:** [mohdzafar97597@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [https://www.linkedin.com/in/mohdza-far/](https://linkedin.com/in/mohd-zafar)
-- **Portfolio:** [https://mohdzafar.vercel.app/](https://mohd-zafar.dev)
+## 📫 Let's Connect
 
-Feel free to explore my repositories and reach out for collaboration opportunities!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdzafar97597@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdza-far/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohdzafar.vercel.app/)
+
+---
+
+<p align="center">🚀 Keep Exploring & Building! 🚀</p>
+```
+
